@@ -1,4 +1,4 @@
-# birdsong-resources
+# 🐦🐦🐦 birdsong-resources 🐦🐦🐦 
 Anything and everything birdsong code & data on Github, Figshare, Dryad, and beyond. PRs welcome.
 
 ## Code
