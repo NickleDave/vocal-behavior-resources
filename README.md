@@ -1,5 +1,5 @@
 # birdsong-resources
-Anything and everything birdsong on Github and beyond. PRs welcome.
+Anything and everything birdsong code & data on Github, Figshare, Dryad, and beyond. PRs welcome.
 
 ## Code
 
