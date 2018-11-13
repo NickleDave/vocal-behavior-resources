@@ -5,6 +5,17 @@ Anything and everything birdsong on Github and beyond. PRs welcome.
 
 ### for accessing websites with APIs
 
+https://github.com/aemarse/xeno-canto-python
+
+https://github.com/davipatti/birdbrain
+Looks like it has a nice class-based approach to accessing Xeno-Canto through their API
+
+https://github.com/BirdVox/BirdVox_datasets
+data-wrangling scripts put together by the BirdVox team
+
+https://github.com/kylebgorman/textgrid
+for working with Praat TextGrid files in Python
+
 ## Data repositories
 
 ### general
