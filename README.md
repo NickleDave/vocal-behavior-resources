@@ -28,6 +28,10 @@ http://taylor0.biology.ucla.edu/birdDBQuery/
 
 https://wp.nyu.edu/birdvox/codedata/#datasets
 
+http://dcase.community/challenge2018/task-bird-audio-detection#audio-datasets
+Birdsong Audio Detection challenge. Has several datasets recorded 
+in diverse conditions to enable testing how well models generalize.
+
 ### species-specific repositories
 
 #### Bengalese Finch
