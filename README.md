@@ -3,14 +3,14 @@
 
 Language is perhaps the only behavior unique to humans, 
 although several other clades of animals 
-similarly learn to vocalize through a process of trail-and-error learning and social interactions, 
-and an open area of research is whether 
-these abilities should be understood as 
-a spectrum or a multi-dimensional cognitive functions.
+similarly learn to vocalize through a process of trail-and-error learning and social interactions. 
+An open area of research is whether 
+these abilities should be understood as a spectrum, 
+or a set of multi-dimensional cognitive functions.
 We call this field of study *vocal behavior*, 
 meaning "the study of animal vocalizations, especially as it relates to speech".
 Researchers ranging from 
-[Chomsky and Pinker in the early 2000s](https://dash.harvard.edu/bitstream/handle/1/3117935/Hauser_EvolutionLanguageFaculty.pdf?sequen) 
+[Chomsky, Fitch, Hauser, Jackendoff and Pinker in the early 2000s](https://dash.harvard.edu/bitstream/handle/1/3117935/Hauser_EvolutionLanguageFaculty.pdf?sequen) 
 to 
 [a broad swath of researchers studying vocal learning today](https://royalsocietypublishing.org/toc/rstb/2021/376/1836)
 have argued that the best way to can understand the origins 
@@ -26,7 +26,7 @@ understanding the origin of language requires a specialized approach.
 Additionally, 
 we propose that the study of vocal behavior 
 requires a
-[software community](https://slidetodoc.com/building-scientific-software-communities-daniel-s-katz-d/),
+[software community](https://zenodo.org/record/6257662),
 in the same way that 
 astronomy has the [astropy project](https://www.astropy.org/about.html),
 high-energy physics has [scikit-HEP](https://scikit-hep.org/),
@@ -34,21 +34,26 @@ and bioinformatics has [bioconda](https://bioconda.github.io/),
 again to give just a few of many examples.
 There has been a recent explosion of software, 
 behavioral models, and datasets 
-targeted at these researchers,
-resulting in a situation 
+targeted at researchers studying vocal behavior.
+This has resulted in a situation 
 similar to the beginnings of the 
 [astropy ecosystem](https://arxiv.org/abs/1610.03159), 
 where there is reduplicatin of effort, 
-and multiple tools offer similar 
+and multiple tools offering similar 
 but not completely overlapping functionality.
 To demonstrate that this is an exponentially grouwing software community, 
 and to illustrate the need for a more organized and cohesive effort 
 among all researchers in that community, 
 we provide here a site with software tools,
 behavioral models, and publicly-available datasets.
-
-# 🐦🐦🐦 birdsong-resources 🐦🐦🐦 
-Anything and everything birdsong code & data on Github, Figshare, Dryad, and beyond. PRs welcome.
+We welcome contributions to this site through the Google Form or GitHub pull requests.
+For a proof-of-concept version of 
+a core software community designed 
+by and for researchers studying vocal behavior,
+please see: https://github.com/vocalpy.
+Papers in progress describe the need for this software community 
+and the design of VocalPy, and we are open to 
+contributions to both.
 
 ## Code
 
