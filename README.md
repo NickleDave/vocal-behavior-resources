@@ -1,3 +1,52 @@
+# 🐔🐑🐁🐿🐳🦀🦚🕷🐝🗣🐦💬 vocal-behavior-resources
+## Tools, models, and datasets for researchers studying vocal behavior
+
+Language is perhaps the only behavior unique to humans, 
+although several other clades of animals 
+similarly learn to vocalize through a process of trail-and-error learning and social interactions, 
+and an open area of research is whether 
+these abilities should be understood as 
+a spectrum or a multi-dimensional cognitive functions.
+We call this field of study *vocal behavior*, 
+meaning "the study of animal vocalizations, especially as it relates to speech".
+Researchers ranging from 
+[Chomsky and Pinker in the early 2000s](https://dash.harvard.edu/bitstream/handle/1/3117935/Hauser_EvolutionLanguageFaculty.pdf?sequen) 
+to 
+[a broad swath of researchers studying vocal learning today](https://royalsocietypublishing.org/toc/rstb/2021/376/1836)
+have argued that the best way to can understand the origins 
+of language and related abilities in other animals  
+is to take a big team science approach, 
+broadly comparative, 
+with truly integrative work across disciplines, 
+including genetics, physiology, neuroscience, ecology and evolution, to name just a few.
+Of course we recognize huge overlap 
+with animal communication and bioacoustics, 
+but we assert that 
+understanding the origin of language requires a specialized approach.
+Additionally, 
+we propose that the study of vocal behavior 
+requires a
+[software community](https://slidetodoc.com/building-scientific-software-communities-daniel-s-katz-d/),
+in the same way that 
+astronomy has the [astropy project](https://www.astropy.org/about.html),
+high-energy physics has [scikit-HEP](https://scikit-hep.org/),
+and bioinformatics has [bioconda](https://bioconda.github.io/),
+again to give just a few of many examples.
+There has been a recent explosion of software, 
+behavioral models, and datasets 
+targeted at these researchers,
+resulting in a situation 
+similar to the beginnings of the 
+[astropy ecosystem](https://arxiv.org/abs/1610.03159), 
+where there is reduplicatin of effort, 
+and multiple tools offer similar 
+but not completely overlapping functionality.
+To demonstrate that this is an exponentially grouwing software community, 
+and to illustrate the need for a more organized and cohesive effort 
+among all researchers in that community, 
+we provide here a site with software tools,
+behavioral models, and publicly-available datasets.
+
 # 🐦🐦🐦 birdsong-resources 🐦🐦🐦 
 Anything and everything birdsong code & data on Github, Figshare, Dryad, and beyond. PRs welcome.
 
@@ -64,3 +113,8 @@ Data used in PLoS One article
 "Complexity, Predictability and Time Homogeneity of Syntax in the Songs of Cassin’s Vireo (Vireo cassini)"
 by Hedley (2016). figshare.  
 https://doi.org/10.6084/m9.figshare.3081814.v1
+
+## See also
+For a much more general site for anyone working in bioacoustics, 
+please see the excellent site organized by Tessa Rhinehart: 
+https://github.com/rhine3/bioacoustics-software
