@@ -1,6 +1,7 @@
-# 🐔🐑🐁🐿🐳🦀🦚🕷🐝🗣🐦💬 vocal-behavior-resources
+# 🗣💬🐦🐁🐳🦚🐔🐑🐿 vocal-behavior-resources
 ## Tools, models, and datasets for researchers studying vocal behavior
 
+### What is vocal behavior?
 Language is perhaps the only behavior unique to humans, 
 although several other clades of animals 
 similarly learn to vocalize through a process of trail-and-error learning and social interactions. 
@@ -14,7 +15,7 @@ Researchers ranging from
 to 
 [a broad swath of researchers studying vocal learning today](https://royalsocietypublishing.org/toc/rstb/2021/376/1836)
 have argued that the best way to can understand the origins 
-of language and related abilities in other animals  
+of language and related abilities in other animals 
 is to take a big team science approach, 
 broadly comparative, 
 with truly integrative work across disciplines, 
@@ -23,6 +24,8 @@ Of course we recognize huge overlap
 with animal communication and bioacoustics, 
 but we assert that 
 understanding the origin of language requires a specialized approach.
+
+### What is a software community, and why does the study of vocal behavior need one?
 Additionally, 
 we propose that the study of vocal behavior 
 requires a
