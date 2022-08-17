@@ -1,5 +1,5 @@
 # 🗣💬🐦🐁🐳🦚🐔🐑🐿 vocal-behavior-resources
-## Tools, models, and datasets for researchers studying vocal behavior
+## Software tools, computational models, and datasets for researchers studying vocal behavior
 
 ### What is vocal behavior?
 Language is perhaps the only behavior unique to humans, 
