@@ -4,13 +4,13 @@
 ### What is vocal behavior?
 Language is perhaps the only behavior unique to humans, 
 although several other clades of animals 
-similarly learn to vocalize through a process of trail-and-error learning and social interactions. 
-An open area of research is whether 
-these abilities should be understood as a spectrum, 
-or a set of multi-dimensional cognitive functions.
-We call this field of study *vocal behavior*, 
-meaning "the study of animal vocalizations, especially as it relates to speech".
-Researchers ranging from 
+similarly learn to vocalize through a process of trial-and-error learning 
+mediated by social interactions. 
+It is hotly debated 
+whether language and vocal learning 
+are best understood as a spectrum, 
+or rather a set of multi-dimensional cognitive functions.
+Scientists ranging from 
 [Chomsky, Fitch, Hauser, Jackendoff and Pinker in the early 2000s](https://dash.harvard.edu/bitstream/handle/1/3117935/Hauser_EvolutionLanguageFaculty.pdf?sequen) 
 to 
 [a broad swath of researchers studying vocal learning today](https://royalsocietypublishing.org/toc/rstb/2021/376/1836)
@@ -20,6 +20,8 @@ is to take a big team science approach,
 broadly comparative, 
 with truly integrative work across disciplines, 
 including genetics, physiology, neuroscience, ecology and evolution, to name just a few.
+We call this field of study *vocal behavior*, 
+meaning "the study of animal vocalizations, especially as it relates to speech".
 Of course we recognize huge overlap 
 with animal communication and bioacoustics, 
 but we assert that 
@@ -57,6 +59,13 @@ please see: https://github.com/vocalpy.
 Papers in progress describe the need for this software community 
 and the design of VocalPy, and we are open to 
 contributions to both.
+
+### Related review papers
+A recent review that is particularly relevant:  
+https://www.frontiersin.org/articles/10.3389/fnbeh.2021.811737/full
+
+See also this special issue of Royal Society Proceedings B:
+https://royalsocietypublishing.org/toc/rstb/2021/376/1836
 
 ## Code
 
